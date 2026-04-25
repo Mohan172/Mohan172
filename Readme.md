@@ -19,7 +19,7 @@
 <a href="mailto:mohanr17223@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/mohana-sundaram-r">
+<a href="www.linkedin.com/in/mohanasundaramr">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Mohan172">
@@ -159,7 +159,7 @@ const mohan = {
 
 💼 **Actively looking for Junior QA / SDET roles in Chennai or Remote**
 
-📧 [mohanr17223@gmail.com](mailto:mohanr17223@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/mohana-sundaram-r) &nbsp;|&nbsp; 📱 +91 9176123792
+📧 [mohanr17223@gmail.com](mailto:mohanr17223@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](www.linkedin.com/in/mohanasundaramr) &nbsp;|&nbsp; 📱 +91 9176123792
 
 _Feel free to reach out — always happy to connect with fellow testers and recruiters!_
 
